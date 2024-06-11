@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains supplemental files and tools for the manuscript detailing the methods for inducing intraocular traumatic optic neuropathy (ITON) using a modified paintball gun system. The tools include ImageJ plug-ins, LabVIEW virtual instrument files, and recipes for preparing necessary solutions.
+This repository contains supplemental files and tools for the JoVE manuscript detailing the methods for inducing intraocular traumatic optic neuropathy (ITON) using a modified paintball gun system. The tools include ImageJ plug-ins, LabVIEW virtual instrument files, and recipes for preparing necessary solutions.
 
 ## Table of Contents
 
