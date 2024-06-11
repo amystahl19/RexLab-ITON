@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Authors and Acknowledgements
 
 - **Authors of Manuscript** - Amy N. Stahl, Elisabeth Artis, Purnima Ghose, Tonia S. Rex
-- **Contributors to Files** - Thanks to all contributors who helped with this project: 
+- **Contributors to Files** - Thanks to all contributors who helped create the files associated with this project: Alexandra Watkins (.vi files) 
 
 ## Contact Information
 
