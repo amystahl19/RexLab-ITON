@@ -43,7 +43,7 @@ This repository contains supplemental files and tools for the manuscript detaili
 
 1. **Download LabVIEW**: Ensure you have LabVIEW installed on your computer. You can find more information [here](https://www.ni.com/en-us/shop/labview.html).
 2. **Install Virtual Instrument**:
-   - Download the `DataAcquisition.vi` file from this repository.
+   - Download the `MousePressureMeasurement.vi` file from this repository.
    - Open the file in LabVIEW.
 
 ### Recipes
@@ -70,7 +70,7 @@ This repository contains supplemental files and tools for the manuscript detaili
 
 1. **Data Acquisition**:
    - Connect your pressure transducer to the DAQ system and computer.
-   - Open `DataAcquisition.vi` in LabVIEW.
+   - Open `MousePressureMeasurement.vi` in LabVIEW.
    - Configure the input channels and run the virtual instrument to start data acquisition.
 
 ## Recipes
@@ -93,8 +93,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors and Acknowledgements
 
-- **Amy Stahl** - Initial work and project lead.
-- **Contributors** - Thanks to all contributors who helped with this project.
+- **Authors of Manuscript** - Amy N. Stahl, Elisabeth Artis, Purnima Ghose, Tonia S. Rex
+- **Contributors to Files** - Thanks to all contributors who helped with this project: 
 
 ## Contact Information
 
