@@ -85,6 +85,18 @@ This repository contains supplemental files and tools for the JoVE manuscript de
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Dependencies
+
+### ImageJ
+- **License**: ImageJ is open-source software distributed under the Public Domain.
+- **Usage**: You can freely use, modify, and distribute ImageJ. For more information, visit the [ImageJ website](https://imagej.nih.gov/ij/).
+
+### NI LabVIEW
+- **License**: NI LabVIEW is proprietary software distributed by National Instruments.
+- **Usage**: A valid license from National Instruments is required to use LabVIEW. For more information, visit the [NI LabVIEW website](https://www.ni.com/en-us/shop/labview.html).
+
+**Note**: The use of the tools provided in this repository with NI LabVIEW requires a valid LabVIEW license from National Instruments. ImageJ plugins are open-source and can be freely used and modified in accordance with their respective licenses.
+
 ## Authors and Acknowledgements
 
 - **Authors of Manuscript** - Amy N. Stahl, Elisabeth Artis, Purnima Ghose, Tonia S. Rex
