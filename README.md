@@ -46,12 +46,6 @@ This repository contains supplemental files and tools for the JoVE manuscript de
    - Download the `MousePressureMeasurement.vi` file from this repository.
    - Open the file in LabVIEW.
 
-### Recipes
-
-1. **Download Recipe Files**:
-   - Download the `Recipes for Solutions.docx` files from this repository.
-   - Open the files with any word processing software to view the preparation instructions.
-
 ## Usage
 
 ### ImageJ Plug-ins
